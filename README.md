@@ -1,6 +1,6 @@
 # The SHRUG Logo
 
-This repository contains the Stockholm Ruby User Group  ([Shurg.se](http://shurg.se))
+This repository contains the Stockholm Ruby User Group  ([shrug.se](http://shrug.se))
 logotype in four different versions: .AI, .PDF, .PNG, .JPG
 
 ## Modify the logo
