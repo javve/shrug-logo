@@ -1,3 +1,5 @@
+![The SHRUG Logo](https://raw.github.com/javve/shrug-logo/master/shrug-logo.png)
+
 # The SHRUG Logo
 
 This repository contains the Stockholm Ruby User Group  ([shrug.se](http://shrug.se))
